@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carbonball
 - 👀 I’m interested in science
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and Java
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me: angryicebird (Discord)
 - 😄 Pronouns: he/him (male)
